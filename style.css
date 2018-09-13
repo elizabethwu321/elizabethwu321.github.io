@@ -1,11 +1,11 @@
 body {
 	background-color: rgb(205, 191, 183);
 	background-color: #cdbfb7;
-	color: white;
+	color: #063475;
 }
 
 a {
-	color: white;
+	color: #752106;
 }
 
 h1 {
@@ -14,11 +14,20 @@ h1 {
 	font-style: italic;
 }
 
+p {
+	font-family: monospace;
+	font-size: 13px
+}
+
 .red-rectangle {
 	background-color: #063475;
 	height: 50px;
 	font-family: monospace;
 	font-size: 13px;
 	font-style: italic;
+}
+
+.red-rectangle {
 	text-align: center;
+	color: white;
 }
