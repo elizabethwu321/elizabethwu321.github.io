@@ -1,6 +1,6 @@
 body {
 	background-color: rgb(205, 191, 183);
-	background-color: ##cdbfb7;
+	background-color: #cdbfb7;
 	color: white;
 }
 
@@ -11,4 +11,14 @@ a {
 h1 {
 	font-family: monospace;
 	font-size: 30px;
+	font-style: italic;
+}
+
+.red-rectangle {
+	background-color: #063475;
+	height: 50px;
+	font-family: monospace;
+	font-size: 13px;
+	font-style: italic;
+	text-align: center;
 }
