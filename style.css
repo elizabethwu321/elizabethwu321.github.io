@@ -1,8 +1,14 @@
 body {
-	background-color: blue;
+	background-color: rgb(205, 191, 183);
+	background-color: ##cdbfb7;
 	color: white;
 }
 
 a {
 	color: white;
+}
+
+h1 {
+	font-family: monospace;
+	font-size: 30px;
 }
