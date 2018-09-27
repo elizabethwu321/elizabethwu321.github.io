@@ -2,33 +2,37 @@ body {
 	background-color: rgb(205, 191, 183);
 	background-color: #cdbfb7;
 	color: #063475;
+	text-align: center;
 }
 
 a {
-	color: #752106;
+	color: yellow;
 }
 
 h1 {
-	font-family: "Avantgarde", sans-serif;
+	font-family: "Futura", sans-serif;
 	font-size: 30px;
+	font-weight: lighter;
 }
 
 h5 {
-	font-family: sans-serif;
+	font-family: "Futura", sans-serif;
 	font-size: 13px;
 	font-weight: lighter;
 }
 
 .red-rectangle {
 	background-color: #063475;
-	height: 50px;
+	width: 300px;
+	height: 250px;
 	font-family: sans-serif;
 	font-size: 13px;
-	font-style: italic;
 	font-weight: lighter;
+	margin: auto;
 }
 
 .red-rectangle {
+	margin: auto;
 	text-align: center;
 	color: white;
 }
