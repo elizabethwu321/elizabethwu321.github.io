@@ -16,16 +16,23 @@ h1 {
 }
 
 h5 {
-	font-family: "Futura", sans-serif;
+	font-family: "avenir", sans-serif;
+	font-size: 18px;
+
+}
+
+h6 {
+	font-family: "avenir", sans-serif;
 	font-size: 13px;
 	font-weight: lighter;
+	text-align: center;
 }
 
 .red-rectangle {
 	background-color: #063475;
-	width: 300px;
+	width: 600px;
 	height: 250px;
-	font-family: sans-serif;
+	font-family: "Futura", sans-serif;
 	font-size: 13px;
 	font-weight: lighter;
 	margin: auto;
